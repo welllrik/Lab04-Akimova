@@ -1,0 +1,15 @@
+C:\Users\Mvideo\Documents\Lab04-Akimova\bin\Debug\net10.0\Lab04-Akimova.exe
+C:\Users\Mvideo\Documents\Lab04-Akimova\bin\Debug\net10.0\Lab04-Akimova.deps.json
+C:\Users\Mvideo\Documents\Lab04-Akimova\bin\Debug\net10.0\Lab04-Akimova.runtimeconfig.json
+C:\Users\Mvideo\Documents\Lab04-Akimova\bin\Debug\net10.0\Lab04-Akimova.dll
+C:\Users\Mvideo\Documents\Lab04-Akimova\bin\Debug\net10.0\Lab04-Akimova.pdb
+C:\Users\Mvideo\Documents\Lab04-Akimova\obj\Debug\net10.0\Lab04-Akimova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mvideo\Documents\Lab04-Akimova\obj\Debug\net10.0\Lab04-Akimova.AssemblyInfoInputs.cache
+C:\Users\Mvideo\Documents\Lab04-Akimova\obj\Debug\net10.0\Lab04-Akimova.AssemblyInfo.cs
+C:\Users\Mvideo\Documents\Lab04-Akimova\obj\Debug\net10.0\Lab04-Akimova.csproj.CoreCompileInputs.cache
+C:\Users\Mvideo\Documents\Lab04-Akimova\obj\Debug\net10.0\Lab04-Akimova.sourcelink.json
+C:\Users\Mvideo\Documents\Lab04-Akimova\obj\Debug\net10.0\Lab04-Akimova.dll
+C:\Users\Mvideo\Documents\Lab04-Akimova\obj\Debug\net10.0\refint\Lab04-Akimova.dll
+C:\Users\Mvideo\Documents\Lab04-Akimova\obj\Debug\net10.0\Lab04-Akimova.pdb
+C:\Users\Mvideo\Documents\Lab04-Akimova\obj\Debug\net10.0\Lab04-Akimova.genruntimeconfig.cache
+C:\Users\Mvideo\Documents\Lab04-Akimova\obj\Debug\net10.0\ref\Lab04-Akimova.dll
