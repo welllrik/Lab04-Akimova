@@ -59,8 +59,21 @@ if (age6 < 13) {
 int age7 = 16;
 double height = 1.55;
 bool hasAdult = true;
-if (age7 >= 14 && height >= 1.5) {
+if (age7 >= 14 && height >= 1.5)
+{
     Console.WriteLine("Можно кататься");
+}
+else
+{
+    Console.WriteLine("Пока нельзя");
+}
+int age = 16;
+double height1 = 1.55;
+bool hasAdult1 = true;
+if (age >= 14 && height1 >= 1.5) {
+    Console.WriteLine("Можно кататься");
+} else if (height1 < 1.5 && hasAdult1) {
+    Console.WriteLine("Можно кататься с сопровождением взрослого");
 } else {
     Console.WriteLine("Пока нельзя");
 }
