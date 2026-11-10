@@ -127,7 +127,6 @@ string input = Console.ReadLine();
 
 if (int.TryParse(input, out int age8))
 {
-    // Проверяем условие доступа
     if (age8 >= 18)
     {
         Console.WriteLine("Доступ разрешён");
@@ -157,7 +156,7 @@ double discountPercent = 0;
 
 if (amount > 1000)
 {
-discountPercent = 10; // Скидка 10%
+discountPercent = 10; 
 }
 else if (amount > 500)
 {
